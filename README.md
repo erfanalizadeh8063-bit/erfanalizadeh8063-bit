@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Erfan 👋
 
-<!--
-**erfanalizadeh8063-bit/erfanalizadeh8063-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CS student @ ELTE (Budapest)** — Web Developer & Web App Security enthusiast.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: React, Git & Linux
+- 🧰 Tech: HTML, CSS (Flex/Grid), JavaScript, Python (basics), Git & GitHub
+- 🧮 Into algorithms & discrete math
+- 📍 Based in Budapest, Hungary
+- 💬 Languages: English & Persian (Farsi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- **Static Landing Starter** — responsive landing page template  
+  Repo: https://github.com/erfanalizadeh8063-bit/static-landing-starter  
+  Live: https://erfanalizadeh8063-bit.github.io/static-landing-starter/ _(after enabling Pages)_
+
+- **Portfolio — Erfan** — personal site to showcase projects  
+  Repo: https://github.com/erfanalizadeh8063-bit/portfolio-erfan  
+  Live: https://erfanalizadeh8063-bit.github.io/portfolio-erfan/ _(after enabling Pages)_
+
+## How to reach me
+- Email: (kept private)  
+
